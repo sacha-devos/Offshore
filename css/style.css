@@ -1,0 +1,20 @@
+style.css
+@import url("https://fonts.googleapis.com/css?family=Times|Calibri");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+body {
+	font-family:'Times', serif;
+	font-size:18px;
+	margin: 0px;
+}
+
+h1,h2,h3,h4 {
+	font-family:'Calibri',sans-serif;
+	font-weight: bold;
+	margin-left: 40px;
+}
+
